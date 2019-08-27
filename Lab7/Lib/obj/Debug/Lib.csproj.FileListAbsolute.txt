@@ -1,0 +1,13 @@
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Library_MarkupCompile.cache
+E:\лабы\ООП 4 семестр\Lab7\Lib\bin\Debug\Library.dll
+E:\лабы\ООП 4 семестр\Lab7\Lib\bin\Debug\Library.pdb
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\UserControl1.g.cs
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Library_MarkupCompile.lref
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\UserControl1.baml
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Library.g.resources
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Lib.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Library.dll
+E:\лабы\ООП 4 семестр\Lab7\Lib\obj\Debug\Library.pdb

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+-<ArrayOfDeposite xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+-<Deposite>
+
+
+-<owner>
+
+<name>cdfvgbht</name>
+
+<surname> gvvdfgb</surname>
+
+<secondname>mynhbg</secondname>
+
+<dateofbirth>4 марта 2019 г.</dateofbirth>
+
+<passport>675</passport>
+
+</owner>
+
+<number>234</number>
+
+<type>Срочный</type>
+
+<balance>300</balance>
+
+<date>1 февраля 2019 г.</date>
+
+<hassms>false</hassms>
+
+<hasinternetbanking>false</hasinternetbanking>
+
+</Deposite>
+
+
+-<Deposite>
+
+
+-<owner>
+
+<name>cdfvgbht</name>
+
+<surname> gvvdfgb</surname>
+
+<secondname>mynhbg</secondname>
+
+<dateofbirth>4 марта 2019 г.</dateofbirth>
+
+<passport>675</passport>
+
+</owner>
+
+<number>234</number>
+
+<type>Срочный</type>
+
+<balance>300</balance>
+
+<date>1 февраля 2019 г.</date>
+
+<hassms>false</hassms>
+
+<hasinternetbanking>false</hasinternetbanking>
+
+</Deposite>
+
+</ArrayOfDeposite>

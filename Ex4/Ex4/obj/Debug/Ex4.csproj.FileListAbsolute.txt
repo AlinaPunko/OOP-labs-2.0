@@ -1,0 +1,6 @@
+E:\лабы\ООП 4 семестр\Ex4\Ex4\bin\Debug\Ex4.exe.config
+E:\лабы\ООП 4 семестр\Ex4\Ex4\bin\Debug\Ex4.exe
+E:\лабы\ООП 4 семестр\Ex4\Ex4\bin\Debug\Ex4.pdb
+E:\лабы\ООП 4 семестр\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Ex4\Ex4\obj\Debug\Ex4.exe
+E:\лабы\ООП 4 семестр\Ex4\Ex4\obj\Debug\Ex4.pdb

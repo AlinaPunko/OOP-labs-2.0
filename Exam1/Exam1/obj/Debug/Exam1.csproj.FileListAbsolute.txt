@@ -1,0 +1,10 @@
+E:\лабы\ООП 4 семестр\Exam1\Exam1\bin\Debug\Exam1.exe.config
+E:\лабы\ООП 4 семестр\Exam1\Exam1\bin\Debug\Exam1.exe
+E:\лабы\ООП 4 семестр\Exam1\Exam1\bin\Debug\Exam1.pdb
+E:\лабы\ООП 4 семестр\Exam1\Exam1\obj\Debug\Exam1.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Exam1\Exam1\obj\Debug\Exam1.Form1.resources
+E:\лабы\ООП 4 семестр\Exam1\Exam1\obj\Debug\Exam1.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Exam1\Exam1\obj\Debug\Exam1.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Exam1\Exam1\obj\Debug\Exam1.exe
+E:\лабы\ООП 4 семестр\Exam1\Exam1\obj\Debug\Exam1.pdb

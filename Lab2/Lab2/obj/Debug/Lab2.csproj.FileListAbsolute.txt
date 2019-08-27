@@ -1,0 +1,11 @@
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\лабы\ООП 4 семестр\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\лабы\ООП 4 семестр\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Lab2\Lab2\obj\Debug\Lab2.Form2.resources

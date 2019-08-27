@@ -1,0 +1,35 @@
+﻿<Window x:Class="Lab13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Row="1" Height="30" VerticalAlignment="Top" Margin="205,225,0,0" Click="ButtonClickCreate" Grid.Column="1">
+            Abstract Create
+        </Button>
+        <Button Grid.Row="1" Height="30" VerticalAlignment="Top" Margin="259,260,0,0" Click="ButtonClickClone" Grid.Column="1">
+            ProtypeClone
+        </Button>
+        <Button Grid.Row="1" Height="35" VerticalAlignment="Top" Margin="270,295,2,0" Click="ButtonClickCreateGpld" Grid.Column="1">
+            SingletonCreate gold
+        </Button>
+        <Button Grid.Row="1" Height="30" VerticalAlignment="Top" Margin="280,325,0,0" Click="ButtonClickCreateComplexObject" Grid.Column="1">
+            Builder ComplexObj
+        </Button>
+
+        <TextBox Name="tb"  Grid.Column="1"  Margin="170,0,0,160" Grid.Row="1"/>
+
+        <Grid Grid.Column="0" Name="Greed" Grid.ColumnSpan="2" Margin="0,0,285,0" Grid.Row="1"/>
+    </Grid>
+</Window>

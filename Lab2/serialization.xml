@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<ArrayOfDeposite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Deposite>
+    <owner>
+      <name>екререкр</name>
+      <surname>ентап</surname>
+      <secondname>екрке</secondname>
+      <dateofbirth>18 марта 2019 г.</dateofbirth>
+      <passport>234</passport>
+    </owner>
+    <number>312</number>
+    <type>Срочный</type>
+    <balance>1231</balance>
+    <date>18 марта 2019 г.</date>
+    <hassms>true</hassms>
+    <hasinternetbanking>true</hasinternetbanking>
+  </Deposite>
+</ArrayOfDeposite>      <name>gfbgr</name>
+      <surname>ytuyt</surname>
+      <secondname>ewfc</secondname>
+      <dateofbirth>4 марта 2019 г.</dateofbirth>
+      <passport>654</passport>
+    </owner>
+    <number>234</number>
+    <type>До востребования</type>
+    <balance>900</balance>
+    <date>1 февраля 2019 г.</date>
+    <hassms>false</hassms>
+    <hasinternetbanking>true</hasinternetbanking>
+  </Deposite>
+  <Deposite>
+    <owner>
+      <name>cdfvgbht</name>
+      <surname> gvvdfgb</surname>
+      <secondname>mynhbg</secondname>
+      <dateofbirth>4 марта 2019 г.</dateofbirth>
+      <passport>675</passport>
+    </owner>
+    <number>234</number>
+    <type>Срочный</type>
+    <balance>300</balance>
+    <date>1 февраля 2019 г.</date>
+    <hassms>false</hassms>
+    <hasinternetbanking>false</hasinternetbanking>
+  </Deposite>
+  <Deposite>
+    <owner>
+      <name>cdfvgbht</name>
+      <surname> gvvdfgb</surname>
+      <secondname>mynhbg</secondname>
+      <dateofbirth>4 марта 2019 г.</dateofbirth>
+      <passport>675</passport>
+    </owner>
+    <number>234</number>
+    <type>Срочный</type>
+    <balance>300</balance>
+    <date>1 февраля 2019 г.</date>
+    <hassms>false</hassms>
+    <hasinternetbanking>false</hasinternetbanking>
+  </Deposite>
+</ArrayOfDeposite>

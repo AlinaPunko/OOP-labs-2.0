@@ -1,0 +1,7 @@
+E:\лабы\ООП 4 семестр\Validation\Validation\bin\Debug\Validation.exe.config
+E:\лабы\ООП 4 семестр\Validation\Validation\bin\Debug\Validation.exe
+E:\лабы\ООП 4 семестр\Validation\Validation\bin\Debug\Validation.pdb
+E:\лабы\ООП 4 семестр\Validation\Validation\obj\Debug\Validation.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Validation\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Validation\Validation\obj\Debug\Validation.exe
+E:\лабы\ООП 4 семестр\Validation\Validation\obj\Debug\Validation.pdb

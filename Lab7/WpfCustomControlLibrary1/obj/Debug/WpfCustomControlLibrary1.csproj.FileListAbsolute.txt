@@ -1,0 +1,15 @@
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\UserControl1.g.cs
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.cache
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.lref
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\UserControl1.baml
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.g.resources
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
+E:\лабы\ООП 4 семестр\Lab7\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb

@@ -1,0 +1,15 @@
+E:\лабы\ООП 4 семестр\Exam3\Exam3\bin\Debug\Exam3.exe.config
+E:\лабы\ООП 4 семестр\Exam3\Exam3\bin\Debug\Exam3.exe
+E:\лабы\ООП 4 семестр\Exam3\Exam3\bin\Debug\Exam3.pdb
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\MainWindow.g.cs
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\App.g.cs
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3_MarkupCompile.cache
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3_MarkupCompile.lref
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\MainWindow.baml
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3.g.resources
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3.exe
+E:\лабы\ООП 4 семестр\Exam3\Exam3\obj\Debug\Exam3.pdb

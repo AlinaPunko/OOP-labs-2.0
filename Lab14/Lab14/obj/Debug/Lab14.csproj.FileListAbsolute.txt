@@ -1,0 +1,15 @@
+E:\лабы\ООП 4 семестр\Lab14\Lab14\bin\Debug\Lab14.exe.config
+E:\лабы\ООП 4 семестр\Lab14\Lab14\bin\Debug\Lab14.exe
+E:\лабы\ООП 4 семестр\Lab14\Lab14\bin\Debug\Lab14.pdb
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\MainWindow.g.cs
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\App.g.cs
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14_MarkupCompile.cache
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14_MarkupCompile.lref
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\MainWindow.baml
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14.g.resources
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14.exe
+E:\лабы\ООП 4 семестр\Lab14\Lab14\obj\Debug\Lab14.pdb

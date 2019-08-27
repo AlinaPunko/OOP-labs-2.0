@@ -1,0 +1,17 @@
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Views\MainView.g.cs
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\App.g.cs
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.cache
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.lref
+E:\лабы\ООП 4 семестр\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\лабы\ООП 4 семестр\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\лабы\ООП 4 семестр\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Views\MainView.baml
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11.g.resources
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab11.pdb
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab10_MarkupCompile.cache
+E:\лабы\ООП 4 семестр\Lab11\Lab11\obj\Debug\Lab10_MarkupCompile.lref

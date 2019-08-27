@@ -1,0 +1,7 @@
+E:\лабы\ООП 4 семестр\Exam4\Exam4\bin\Debug\Exam4.exe.config
+E:\лабы\ООП 4 семестр\Exam4\Exam4\bin\Debug\Exam4.exe
+E:\лабы\ООП 4 семестр\Exam4\Exam4\bin\Debug\Exam4.pdb
+E:\лабы\ООП 4 семестр\Exam4\Exam4\obj\Debug\Exam4.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Exam4\Exam4\obj\Debug\Exam4.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Exam4\Exam4\obj\Debug\Exam4.exe
+E:\лабы\ООП 4 семестр\Exam4\Exam4\obj\Debug\Exam4.pdb

@@ -1,0 +1,10 @@
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\bin\Debug\Lab1-1.exe.config
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\bin\Debug\Lab1-1.exe
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\bin\Debug\Lab1-1.pdb
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\obj\Debug\Lab1-1.csprojAssemblyReference.cache
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\obj\Debug\Lab1_1.Form1.resources
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\obj\Debug\Lab1_1.Properties.Resources.resources
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\obj\Debug\Lab1-1.csproj.GenerateResource.cache
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\obj\Debug\Lab1-1.csproj.CoreCompileInputs.cache
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\obj\Debug\Lab1-1.exe
+E:\лабы\ООП 4 семестр\Lab1-1\Lab1-1\obj\Debug\Lab1-1.pdb
